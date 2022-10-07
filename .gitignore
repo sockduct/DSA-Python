@@ -1,0 +1,21 @@
+# Python Cache/Compiled files
+__pycache__/*
+*.pyc
+
+# Vim Temp Files
+*.swp
+
+# Don't include SQLite databases
+*.db
+
+# Data files
+*.txt
+
+# Directories:
+.vscode/*
+output/*
+reports/*
+
+# Log files:
+*.log
+
